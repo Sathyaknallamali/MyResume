@@ -1,3 +1,6 @@
+My Resume
+
+
 # Input
 The tool accepts structured data inputs, encompassing the user's personal information, educational background, abilities, work experience, and project specifics. The data is directly inputted into the Resume.js file as variables or arrays for convenient processing. The program utilizes user-defined styles from Resume.css to personalize the resume's presentation.
 
